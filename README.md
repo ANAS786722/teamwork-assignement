@@ -1,5 +1,5 @@
 # teamwork-assignement
-Teamwork by Anas &amp; Fahad
+Teamwork by Anas & Fahad:
 def display_options():
     print("Select an option:")
     print("1. Learn Python")
